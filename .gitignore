@@ -5,5 +5,4 @@ __pycache__/
 .venv/
 venv/
 data/*.csv
-report/
 "@ | Out-File -FilePath .gitignore -Encoding utf8
